@@ -1,1 +1,1 @@
-Test 23/09/2025 to check Adding CI to Your Repository LAB02 jdk25
+![workflow](https://github.com/ifthikar10/devops-40806357/actions/workflows/main.yml/badge.svg)
